@@ -97,7 +97,7 @@ The following (mostly free) resources complimented my personal journey throughou
 
 [Ruby Gems](https://rubygems.org/) - Ruby community gem hosting service. Includes gem guide.
 
-##### Ruby Server-side Frameworks
+##### Ruby Full-stack Frameworks
 [Ruby on Rails](http://rubyonrails.org/)
 
 [Rails Guides](http://guides.rubyonrails.org/getting_started.html) - Getting started with Rails.

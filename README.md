@@ -1,10 +1,10 @@
-## Development Toolkit for Beginners - 1.0
+## Development Toolkit for Beginners - 1.1
 
 A reference for intrepid knowledge seekers and digital padawans.
 
 [The Odin Project](http://www.theodinproject.com/) - Start here! Free open source web development curriculum provides a clear road map for beginners.
 
-The following (mostly free) resources complimented my personal journey throughout the course of the project.
+The following (mostly free) resources have complimented my personal journey throughout the course of the project.
 
 ### Coding
 ##### HTML & CSS
@@ -61,7 +61,13 @@ The following (mostly free) resources complimented my personal journey throughou
 
 [JavaScript is Sexy](http://javascriptissexy.com/how-to-learn-javascript-properly/#) - Alternative to The Odin Project JavaScript curriculum.
 
+[Code Conventions](http://javascript.crockford.com/code.html#variable%20declarations) - Douglas Crockford.
+
 [JavaScript Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+
+[JavaScript Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects) - List of all standard built-in objects, including associated properties and methods.
+
+[Recursion](https://www.codecademy.com/courses/javascript-lesson-205/0/1)
 
 ##### JavaScript Front-end Frameworks
 [AngularJS](https://angularjs.org/)
@@ -109,6 +115,8 @@ The following (mostly free) resources complimented my personal journey throughou
 ##### Regular Expressions (Regex)
 [tuts+ Regular Expression Resources](http://code.tutsplus.com/categories/regular-expressions)
 
+[Regular-Expressions](http://www.regular-expressions.info/)
+
 [RegExr](http://regexr.com/) - Interactive online tool for learning and testing.
 
 ##### Command Line (CLI)
@@ -146,6 +154,10 @@ The following (mostly free) resources complimented my personal journey throughou
 
 ##### Software
 [Sublime Text 2](http://www.sublimetext.com/) - [Beginners Guide](http://jennifermann.ghost.io/a-quick-guide-to-sublime-text/) - Text editor.
+
+[Atom](https://atom.io/) - Text editor with built-in developer tools.
+
+[Firebug](http://getfirebug.com/) - JavaScript developer tools for the Firefox browser.
 
 ##### Cheat Sheets
 [Skillcrush HTML](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
@@ -203,7 +215,9 @@ The following (mostly free) resources complimented my personal journey throughou
 ##### Typography
 [Google Fonts](https://www.google.com/fonts) - Directory of open source web fonts.
 
-[My Fonts: What the Font](https://www.myfonts.com/WhatTheFont/) - Identify unknown fonts with a screenshot.
+[Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - Showcase of typefaces from Google Fonts.
+
+[My Fonts: What The Font](https://www.myfonts.com/WhatTheFont/) - Identify unknown fonts with a screenshot.
 
 ##### Images
 [Subtle Patterns](http://subtlepatterns.com/) - Free high quality patterns for backgrounds. 
@@ -238,7 +252,24 @@ The following (mostly free) resources complimented my personal journey throughou
 ##### Inspiration
 [Zurb Library](http://zurb.com/library)
 
+[CSS Zen Garden](http://www.csszengarden.com/)
+
 [Dribbble](https://dribbble.com/) - Social network for designers.
+
+
+<br>
+### Common Problems
+##### HTML and CSS
+[WTF, HTML and CSS?](http://wtfhtmlcss.com/) - Curated list of common HTML and CSS problems.
+
+[Clearfix Methods](http://stackoverflow.com/questions/211383/which-method-of-clearfix-is-best) - [Micro Clearfix](http://nicolasgallagher.com/micro-clearfix-hack/) - Prevent parent containers with floated child elements from collapsing.
+
+[Remove whitespace between inline-block elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
+
+##### JavaScript
+[Remove duplicate values in an array](https://dreaminginjavascript.wordpress.com/2008/08/22/eliminating-duplicates/)
+
+[Modify strings](http://stackoverflow.com/questions/1431094/how-do-i-replace-a-character-at-a-particular-index-in-javascript)
 
 
 <br>
@@ -260,7 +291,7 @@ The following (mostly free) resources complimented my personal journey throughou
 
 [GitHub Flavoured Markdown](https://help.github.com/articles/github-flavored-markdown/) - GFM.
 
-[Markdown Live Preview](http://tmpvar.com/markdown.html) - Review markdown of readme.md files before uploading.
+[Markdown Live Preview](http://tmpvar.com/markdown.html) - Preview markdown of readme.md files before uploading. Uses GitHub styling.
 
 [Markdown Emojis](http://www.emoji-cheat-sheet.com/) - :smiley:
 
@@ -269,7 +300,7 @@ The following (mostly free) resources complimented my personal journey throughou
 ### Everything Else...
 [RailsBridge Installfest](http://installfest.railsbridge.org/installfest/) - Windows, Mac and Linux installation guide for Ruby, Rails, Git, GitHub, Heroku and Sublime Text 2.
 
-[Coderbyte](http://coderbyte.com/) - Test your coding comprehension with a range of programming problems.
+[Coderbyte](http://coderbyte.com/) - [Codewars](http://www.codewars.com/) - Test your coding comprehension with a range of programming challenges.
 
 [Codecademy](https://www.codecademy.com/) - Great interactive introduction to a range of web technologies.
 
@@ -281,8 +312,12 @@ The following (mostly free) resources complimented my personal journey throughou
 
 [Wunderlist](https://www.wunderlist.com/) - Multi-platform to-do list software. Ideal for organising training and project progress.
 
+[Write!](https://wri.tt/) - Minimalist text editor with markdown support.
+
 [Heroku](https://www.heroku.com/) - Cloud platform for web applications.
 
 [Hack Design](https://hackdesign.org/) - Free design course for beginners.
+
+[What Is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) - Paul Ford.
 
 [CS50: Introduction to Computer Science](http://cs50.tv/2014/fall/#about,lectures) - Harvard College Module by David J. Malan.

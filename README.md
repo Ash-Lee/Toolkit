@@ -1,4 +1,4 @@
-## Development Toolkit for Beginners - 1.1
+## Development Toolkit for Beginners - 1.3
 
 A reference for intrepid knowledge seekers and digital padawans.
 
@@ -61,6 +61,8 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [JavaScript is Sexy](http://javascriptissexy.com/how-to-learn-javascript-properly/#) - Alternative to The Odin Project JavaScript curriculum.
 
+[JavaScript 101](http://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0)
+
 [Code Conventions](http://javascript.crockford.com/code.html#variable%20declarations) - Douglas Crockford.
 
 [JavaScript Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
@@ -69,7 +71,7 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [Recursion](https://www.codecademy.com/courses/javascript-lesson-205/0/1)
 
-##### JavaScript Front-end Frameworks
+##### JavaScript Front End Frameworks
 [AngularJS](https://angularjs.org/)
 
 [Backbone.js](http://backbonejs.org/)
@@ -112,12 +114,53 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [Rails for Zombies](http://railsforzombies.org/levels/1) - Online interactive course.
 
+##### PHP
+[PHP](http://php.net/)
+
+[XAMPP](https://www.apachefriends.org/index.html) - Multi-platform development environment. Installation package includes Apache web server, MariaDB database and PHP.
+
+[WampServer](http://www.wampserver.com/en/) - Windows development environment. Apache, MySQL and PHP.
+
+[Hacking with PHP](http://www.hackingwithphp.com/) - Great overview for beginners.
+
+[learn-php.org](http://learn-php.org/) - Interactive PHP tutorial.
+
+[I ♥ PHP](http://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
+
+[Learn X in Y Minutes](http://learnxinyminutes.com/docs/php/) - Where X = PHP.
+
+[PHP The Right Way](http://www.phptherightway.com/) - Quick reference for popular PHP coding standards.
+
+[Zend PHP 101](http://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/) - PHP for the absolute beginner.
+
+[Built-in Web Server PHP 5.4+](http://php.net/features.commandline.webserver) - For application development and testing purposes only.
+
+[Composer](https://getcomposer.org/) - Dependency Manager for PHP.
+
+##### PHP Server-side Frameworks
+[Laravel](http://laravel.com/)
+
+[Symfony](http://symfony.com/)
+
+[Yii](http://www.yiiframework.com/)
+
 ##### Regular Expressions (Regex)
 [tuts+ Regular Expression Resources](http://code.tutsplus.com/categories/regular-expressions)
+
+[MDN - Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 
 [Regular-Expressions](http://www.regular-expressions.info/)
 
 [RegExr](http://regexr.com/) - Interactive online tool for learning and testing.
+
+##### Structured Query Language (SQL)
+[MariaDB](https://mariadb.org/) - Enhanced, drop-in replacement for MySQL.
+
+[MySQL](https://www.mysql.com/)
+
+[Hacking with PHP](http://www.hackingwithphp.com/9/0/0/databases) - Chapter 9 Databases.
+
+[SQL Tutorial](http://sqlzoo.net/wiki/SQL_Tutorial)
 
 ##### Command Line (CLI)
 [Learn Code the Hard Way](http://cli.learncodethehardway.org/book/) - Command line crash course.
@@ -133,6 +176,10 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [JSFiddle](http://jsfiddle.net/) - Online editor for HTML, CSS, JavaScript and jQuery. Also provides basic error detection.
 
+[Codecademy Labs](http://labs.codecademy.com/#) - Ruby, Python and JavaScript online editor and console.
+
+[JS Bin](http://jsbin.com/?html,output) - Online editor.
+
 [JSLint](http://www.jslint.com/) - JavaScript error and quality checking.
 
 [Google Hosted Libraries](https://developers.google.com/speed/libraries/?hl=fr) - Content distribution network for the most popular open-source JavaScript libraries. jQuery, AngularJS, etc.
@@ -143,7 +190,9 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [CSS Minifier](http://cssminifier.com/) - Compress and optimize your CSS and JavaScript files. Removes all unnecessary characters from source code, without changing its functionality.
 
-[HTML 5 Outliner](https://gsnedders.html5.org/outliner/) - Check the document outline (table of contents) of your HTML code. Helps with assistive technology and can improve search engine ranking.
+[HTML5 Outliner](https://gsnedders.html5.org/outliner/) - Check the document outline (table of contents) of your HTML code. Helps with assistive technology and can improve search engine ranking.
+
+[HTML Markup Validation Service](https://validator.w3.org/) - Check standards-compliance.
 
 ##### CSS Reset Sheets
 [CSS Reset](http://cssreset.com/) - Top 5 most popular reset sheets.
@@ -159,14 +208,25 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [Firebug](http://getfirebug.com/) - JavaScript developer tools for the Firefox browser.
 
+##### Content Management Systems (CMS)
+[WordPress](https://wordpress.org/) - [Documentation](https://codex.wordpress.org/Main_Page) - [Getting Started](https://codex.wordpress.org/Getting_Started_with_WordPress) - [Installation](https://codex.wordpress.org/Installing_WordPress) - [Theme Directory](https://wordpress.org/themes/)
+
+[How To Install WordPress Locally For PC/Windows with XAMPP ](https://premium.wpmudev.org/blog/how-to-install-wordpress-locally-for-pcwindows-with-xampp/) - Localhost environment (local web server) for development and testing.
+
+[Drupal](https://www.drupal.org/)
+
 ##### Cheat Sheets
 [Skillcrush HTML](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
 
-[OverAPI](http://overapi.com/) - [HTML](http://overapi.com/html/) - [HTML](http://overapi.com/static/cs/html-cheat-sheet.pdf) - [CSS](http://overapi.com/css/) - [JavaScript](http://overapi.com/javascript/) - [jQuery](http://overapi.com/jquery/) - [Ruby](http://overapi.com/ruby/) - [Regex](http://overapi.com/regex/)
+[OverAPI](http://overapi.com/) - [HTML](http://overapi.com/html/) - [HTML](http://overapi.com/static/cs/html-cheat-sheet.pdf) - [HTML DOM Events](http://overapi.com/html-dom/) - [CSS](http://overapi.com/css/) - [JavaScript](http://overapi.com/javascript/) - [jQuery](http://overapi.com/jquery/) - [Ruby](http://overapi.com/ruby/) - [Regex](http://overapi.com/regex/)
 
 [jQuery Quick API Reference](http://oscarotero.com/jquery/)
 
+[Ruby on Rails](http://www.pragtob.info/rails-beginner-cheatsheet/index.html)
+
 [Regex](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
+
+[Laravel](http://cheats.jesse-obrien.ca/)
 
 [Sublime Text 2](http://www.cheatography.com/njovin/cheat-sheets/sublime-text-2-windows/)
 
@@ -266,6 +326,8 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [Remove whitespace between inline-block elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)
 
+[Convert fixed pixel values to fluid percentage values](http://alistapart.com/article/fluidgrids) - Fonts and containers (target / context = result).
+
 ##### JavaScript
 [Remove duplicate values in an array](https://dreaminginjavascript.wordpress.com/2008/08/22/eliminating-duplicates/)
 
@@ -308,6 +370,8 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [ShortcutFoo](https://www.shortcutfoo.com/) - [Sublime Text 2](https://www.shortcutfoo.com/app/dojos/sublime-text-2-win) - [Git](https://www.shortcutfoo.com/app/dojos/git) - [CLI](https://www.shortcutfoo.com/app/dojos/command-line) - [Regex](https://www.shortcutfoo.com/app/dojos/regex) - Interactive spaced repetition for software shortcuts.
 
+[Coggle](https://coggle.it/) - Mind maps.
+
 [Dual N-back](http://brainworkshop.sourceforge.net/) - Daily mental exercise to improve your working memory (short-term memory) and fluid memory. Forces you to repeatedly remember and update a sequence of variables at random points within a time limit. Helps with reading and writing code.
 
 [Wunderlist](https://www.wunderlist.com/) - Multi-platform to-do list software. Ideal for organising training and project progress.
@@ -316,8 +380,14 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [Heroku](https://www.heroku.com/) - Cloud platform for web applications.
 
+[20 Things I learned About Browsers And The Web](http://www.20thingsilearned.com/en-US/home) - For the absolute beginner.
+
 [Hack Design](https://hackdesign.org/) - Free design course for beginners.
 
 [What Is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) - Paul Ford.
 
+[Why is Object-Oriented Programming Useful?](http://inventwithpython.com/blog/2014/12/02/why-is-object-oriented-programming-useful-with-an-role-playing-game-example/) - A role playing game example. Great introduction to the basic universal principles of object-oriented programming (OOP). 
+
 [CS50: Introduction to Computer Science](http://cs50.tv/2014/fall/#about,lectures) - Harvard College Module by David J. Malan.
+
+[IT Jobs Watch](http://www.itjobswatch.co.uk/) - UK tech skills ranked by commercial value.

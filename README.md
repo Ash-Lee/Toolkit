@@ -88,7 +88,7 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [jQuery](http://jquery.com/) - [Events](http://api.jquery.com/category/events/) - [Effects](http://api.jquery.com/category/effects/) - Download link and official API documentation.
 
-[jQuery UI](http://jqueryui.com/) - [Demos](http://jqueryui.com/demos/) - jQuery UI and examples of its capabilities.
+[jQuery UI](http://jqueryui.com/) - [Demos](http://jqueryui.com/demos/) - [Easing Patterns](https://jqueryui.com/resources/demos/effect/easing.html) - jQuery UI and examples of its capabilities.
 
 ##### Ruby
 [RailsInstaller](http://railsinstaller.org/en) - Ruby, Rails and Git Installation.
@@ -115,8 +115,7 @@ The following (mostly free) resources have complimented my personal journey thro
 [Rails for Zombies](http://railsforzombies.org/levels/1) - Online interactive course.
 
 ##### PHP
-[PHP](http://php.net/)
-
+[PHP](http://php.net/) - [Manual](https://secure.php.net/manual/en/) - [Function Reference](https://secure.php.net/manual/en/funcref.php) 
 [XAMPP](https://www.apachefriends.org/index.html) - Multi-platform development environment. Installation package includes Apache web server, MariaDB database and PHP.
 
 [WampServer](http://www.wampserver.com/en/) - Windows development environment. Apache, MySQL and PHP.
@@ -135,6 +134,8 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [Built-in Web Server PHP 5.4+](http://php.net/features.commandline.webserver) - For application development and testing purposes only.
 
+[PEAR](https://pear.php.net/) - PHP Extension and Application Repository.
+
 [Composer](https://getcomposer.org/) - Dependency Manager for PHP.
 
 ##### PHP Server-side Frameworks
@@ -142,9 +143,13 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [Symfony](http://symfony.com/)
 
+[Zend Framework](http://framework.zend.com/)
+
 [Yii](http://www.yiiframework.com/)
 
 ##### Regular Expressions (Regex)
+[Hacking with PHP](http://www.hackingwithphp.com/4/8/0/regular-expressions) - Chapter 4.8 Functions.
+
 [tuts+ Regular Expression Resources](http://code.tutsplus.com/categories/regular-expressions)
 
 [MDN - Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
@@ -176,6 +181,8 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [JSFiddle](http://jsfiddle.net/) - Online editor for HTML, CSS, JavaScript and jQuery. Also provides basic error detection.
 
+[PHPFiddle](http://phpfiddle.org/) - Online editor for PHP.
+
 [Codecademy Labs](http://labs.codecademy.com/#) - Ruby, Python and JavaScript online editor and console.
 
 [JS Bin](http://jsbin.com/?html,output) - Online editor.
@@ -193,6 +200,8 @@ The following (mostly free) resources have complimented my personal journey thro
 [HTML5 Outliner](https://gsnedders.html5.org/outliner/) - Check the document outline (table of contents) of your HTML code. Helps with assistive technology and can improve search engine ranking.
 
 [HTML Markup Validation Service](https://validator.w3.org/) - Check standards-compliance.
+
+[CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/index.html)
 
 ##### CSS Reset Sheets
 [CSS Reset](http://cssreset.com/) - Top 5 most popular reset sheets.
@@ -238,6 +247,8 @@ The following (mostly free) resources have complimented my personal journey thro
 <br>
 ### Design Tools
 [CSSmatic](http://www.cssmatic.com/) - Gradient, border and shadow generator. Great for learning how these properties work.
+
+[Saving images for the web](http://sixrevisions.com/web_design/comprehensive-guide-saving-images-for-web/)
 
 [SpriteMe](http://spriteme.org/) - Tool for converting background-images into sprites to reduce HTTP requests.
 
@@ -328,6 +339,8 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [Convert fixed pixel values to fluid percentage values](http://alistapart.com/article/fluidgrids) - Fonts and containers (target / context = result).
 
+[Horizontally and vertically centre an absolute element](http://www.smashingmagazine.com/2013/08/absolute-horizontal-vertical-centering-css/)
+
 ##### JavaScript
 [Remove duplicate values in an array](https://dreaminginjavascript.wordpress.com/2008/08/22/eliminating-duplicates/)
 
@@ -344,7 +357,7 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [GitHub Upload](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) - Add an existing project to GitHub.
 
-[GitHub Project Hosting](https://pages.github.com/) - Publish your creations online via GitHub. Choose _'Project site_' and '_Start from scratch_'.
+[GitHub Project Hosting](https://pages.github.com/) - Publish your creations online via GitHub. Choose '_Project site_' and '_Start from scratch_'.
 
 ##### Markdown
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -390,4 +403,4 @@ The following (mostly free) resources have complimented my personal journey thro
 
 [CS50: Introduction to Computer Science](http://cs50.tv/2014/fall/#about,lectures) - Harvard College Module by David J. Malan.
 
-[IT Jobs Watch](http://www.itjobswatch.co.uk/) - UK tech skills ranked by commercial value.
+[IT Jobs Watch](http://www.itjobswatch.co.uk/) - UK technology skills ranked by commercial value.
